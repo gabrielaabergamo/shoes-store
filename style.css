@@ -180,3 +180,21 @@ footer .container .logo-footer small{
     font-size: 14px;
     line-height: 19px;
 }
+@media (max-width: 1386px){
+    .container{
+        flex-wrap: wrap;
+        align-items: center;
+    }
+}
+@media (max-width: 663px){
+    .ofertas .container{
+        justify-content: center;
+    }
+    .banner-imagens .container{
+        align-items: center;
+        justify-content: center;
+    }
+    .banner-imagens .img2 img{
+        width: 400px;
+    }
+}
