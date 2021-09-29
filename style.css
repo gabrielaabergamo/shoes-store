@@ -97,6 +97,10 @@ header .container .links ul li a:hover{
     width: 310px;
     margin-bottom: 60px;
 }
+.ofertas .container .card img{
+    width: 310px;
+    height: 300px;
+}
 .ofertas .container .card .info{
     background-color: #FFFFFF;
     padding: 10px;
