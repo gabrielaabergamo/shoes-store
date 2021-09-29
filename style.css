@@ -186,7 +186,7 @@ footer .container .logo-footer small{
         align-items: center;
     }
     .sandalia-destaque .esq{
-        gap: 10px;
+        gap: 80px;
     }
 }
 @media (max-width: 762px){
